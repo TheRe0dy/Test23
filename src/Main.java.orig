@@ -1,5 +1,10 @@
 import com.sun.net.httpserver.HttpServer;
+<<<<<<< HEAD
 //Разработчик: Костя
+=======
+//Руководство
+//
+>>>>>>> main
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.InetSocketAddress;
